@@ -1,0 +1,18 @@
+/*=================HEADER===========*/
+.nav{
+  background-color: #324067;
+}
+/*==================JUMBOTRON==========*/
+.jumbotron{
+  height:700px;
+  text-align: center;
+  padding-top: 250px;
+  background-color: #aaaaff;
+  color: #fff;
+}
+/*================WELL==================*/
+.well{
+  text-align: center;
+  background-color: #324067;
+  color: #fff;
+}
